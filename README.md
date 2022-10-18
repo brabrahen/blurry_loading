@@ -1,4 +1,4 @@
-# blurry_loading
+# Blurry loading 
 
 Week of projects
 
